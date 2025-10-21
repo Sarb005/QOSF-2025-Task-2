@@ -17,7 +17,7 @@ The second notebook implements the **extension part to accomdate for three-qubit
 ---
 ## 📖 Overview
 
-- Provides an **introduction** to **three-qubit**  including the computational basis and vector representation.  
+- Provides an **introduction** to **three-qubit states**  including the computational basis and vector representation.  
 - Prompts the user to **input an eight-element array of complex amplitudes** representing the three-qubit state.  
 - Performs **normalization** and checks for **correct dimensionality**.  
 - Finally, **prints the normalized three-qubit state** in **Dirac notation**.
