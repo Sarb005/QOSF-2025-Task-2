@@ -1,4 +1,14 @@
-This notebook does the first part of 2nd task which is to perform state preparation for 2-qubit state.
-It has a good starting description on what are the single qubit and double-qubit states.
-Then it will prompt the user to prompt in the input array for the task and will perform the normalisation and dimentionality check later
-In the end, will print the final state
+# 🧠 Two-Qubit State Preparation Notebook
+
+This notebook implements the **first part of the second task**: **preparing a two-qubit quantum state**.
+
+---
+
+## 📖 Overview
+
+- Provides an **introduction** to **single-qubit** and **two-qubit states**, including the computational basis and vector representation.  
+- Prompts the user to **input a four-element array of complex amplitudes** representing the two-qubit state.  
+- Performs **normalization** and checks for **correct dimensionality**.  
+- Finally, **prints the normalized two-qubit state** in **Dirac notation**.
+
+---
